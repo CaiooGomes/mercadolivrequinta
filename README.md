@@ -16,14 +16,20 @@
 
 ## enviar as mudanças pro github
 
-### enviar na escola:
+## atualizar o projeto
+
+### atualizar na escola:
 ``` git push git@github.com-caio:CaiooGomes/mercadolivrequinta.git ```
 
-### enviar em casa:
+### atualizar em casa:
 ``` git push git@github.com:CaiooGomes/mercadolivrequinta.git ```
+
+
+
 
 ## criar uma branch(versão para testes) nova
 ````git checkout -b "nome-da-branch" ```
 
 ## trocar de cranch depois de criada
 ```git checkout nome-da-branch```
+
