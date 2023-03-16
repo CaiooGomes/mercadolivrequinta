@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@1,300&display=swap');
+
+
 .nav-imagem{
     background-image: url('./assets/imagens/logo-navbar-esq.png');
     width: 150px;
@@ -40,5 +43,21 @@
     margin-right: 20px;
     align-items: center;
     justify-content: center;
+    justify-content: space-around;
     
+}
+
+#rodape {
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(236, 236, 236);
+    margin-top: 40px;
+}
+
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+    background-color: aliceblue;
 }
